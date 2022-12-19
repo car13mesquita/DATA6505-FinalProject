@@ -33,6 +33,10 @@ Based on our analysis, it appears that Citi Bikes are typically used for busines
 
 While this suggests more users are using Citi Bikes for business, About one-third of Citi Bike usage does appear to be for leisurely purposes. It may be the case that this usage helps Citi Bike on weekends in the spring and summer, but the true heroes are the commuters braving the elements to continue to patron Citi Bike in the colder winter months.
 
+Click [here](https://github.com/car13mesquita/DATA6505-FinalProject/blob/main/analysis.ipynb) for the full analysis.
+
+Click [here](https://github.com/car13mesquita/DATA6505-FinalProject/blob/main/summary.ipynb) for the detailed summary.
+
 ## Question for Further Analysis
 * Can a user be advised on whether or not they as an individual should become a member? This would require additional fields in the data such as a member ID so rides could be connected to unique users.
 * What impact does traffic have on ride duration at different times? Additional information on speed and routes traveled would be needed as well as traffic data for the time periods analyzed.
